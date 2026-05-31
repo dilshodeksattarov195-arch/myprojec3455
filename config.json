@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdender",
+        "uuid": 8250540,
+        "checksum": "76lkyg"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
